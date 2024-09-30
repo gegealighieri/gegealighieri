@@ -1,4 +1,4 @@
-Olá! meu nome é Angeliny 🖤
+Olá! meu nome é Angeliny :black heart 
 
 • sou estudante 
 • estou me desenvolvendo na linguagem javaScript
